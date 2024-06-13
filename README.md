@@ -34,7 +34,7 @@ This is a Next.js application named [Project Name]. It includes a simple home pa
 
 
 
-This application is deployed on Vercel. You can view the live site at: [deployment URL]
+This application is deployed on Vercel. You can view the live site at: movie-list-demo-dmgc061ac-desg01211517s-projects.vercel.app
 
 
 
